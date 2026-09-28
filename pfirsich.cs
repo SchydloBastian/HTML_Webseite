@@ -6,5 +6,12 @@
         margin: 20px;
     }
 
+header {
+    background-color: #ffab91;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+
 
 </style>
