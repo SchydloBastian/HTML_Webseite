@@ -1,0 +1,10 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #fff3e0;
+        color: #4e342e;
+        margin: 20px;
+    }
+
+
+</style>
