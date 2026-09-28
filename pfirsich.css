@@ -18,7 +18,14 @@
         text-decoration: none;
     }
 
-    
+    button {
+        background-color: #e65100;
+        color: white;
+        border: none;
+        padding: 8px 15px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
 
 
 
