@@ -6,19 +6,26 @@
         margin: 20px;
     }
 
-header {
-    background-color: #ffab91;
-    padding: 15px;
-    border-radius: 8px;
-}
-nav a {
-    margin-right: 15px;
-    color: #7f1d1d;
-    font-weight: bold;
-    text-decoration: none;
-}
+    header {
+        background-color: #ffab91;
+        padding: 15px;
+        border-radius: 8px;
+    }
+    nav a {
+        margin-right: 15px;
+        color: #7f1d1d;
+        font-weight: bold;
+        text-decoration: none;
+    }
 
-
+    button {
+        background-color: #e65100;
+        color: white;
+        border: none;
+        padding: 8px 15px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
 
 
 
