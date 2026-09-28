@@ -11,6 +11,14 @@ header {
     padding: 15px;
     border-radius: 8px;
 }
+nav a {
+    margin-right: 15px;
+    color: #7f1d1d;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
 
 
 
